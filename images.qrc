@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>left_signal.png</file>
+    <file>right_signal.png</file>
+    <file>warn_abs.png</file>
+</qresource>
+</RCC>

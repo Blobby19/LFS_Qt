@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/smx">
+        <file>Aston_3DH.smx</file>
+        <file>Autocross_3DH.smx</file>
+        <file>Blackwood_3DH.smx</file>
+        <file>Fern Bay_3DH.smx</file>
+        <file>Kyoto Ring_3DH.smx</file>
+        <file>South City_3DH.smx</file>
+        <file>Westhill_3DH.smx</file>
+    </qresource>
+</RCC>
